@@ -11,7 +11,9 @@ After lectures (Tue/Thr)
 
 Response time to communication expectations:
 Within 24 hrs
-Through Teams
+Through Teams primarily
+Through email or phone number if not responding to Teams.
+Phone numbers will be entered in Teams.
 
 Definition of done: when is a task complete?:
 Properly tested, checked into Github, meets all requirements, checked by teammate(s)
