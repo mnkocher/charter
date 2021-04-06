@@ -1,18 +1,35 @@
-<group name>
+Group 5
 
 
 Availability for meeting expectations:
+2 days a week
+After lectures (Tue/Thr) 
 
 Response time to communication expectations:
+Within 24 hrs
+Through Teams
 
 Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.):
+Properly tested, checked into Github, meets all requirements, checked by teammate(s)
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
+~15 minutes 
+Take notes - Amenah
+Update task board - Kaitlyn
+Facilitate questions - Megan
+Code Review - Cattleia
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
 if you adopt such a policy during the initial meeting, put it here
 
 Procedure for handling a member who is not meeting expectations:
 must include at least 3 actions before involving the instructor
+1. At next meeting, talk to member
+2. Contact member directly (wait for 24 hr)
+3. Contact TA 
 
 Signatures: each member must sign their name by typing their name at the bottom of the document.
+Megan Kocher
+Amenah Syed
+Kaitlyn Jankowski
+Cattleia Walsh
