@@ -33,6 +33,11 @@ Procedure for adopting policies (e.g. code style, code check-in steps, documenta
 if you adopt such a policy during the initial meeting, put it here
 
 Procedure for handling a member who is not meeting expectations:
+3 infractions: 
+1. Missing meetings without notifying team members beforehand
+2. Not completing work on time more than once
+3. Not responding at all to team members or coming to meetings
+
 must include at least 3 actions before involving the instructor
 1. At next meeting, talk to member
 2. Contact member directly (wait for 24 hr)
