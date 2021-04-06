@@ -18,10 +18,14 @@ Properly tested, checked into Github, meets all requirements, checked by teammat
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
 ~15 minutes 
-Take notes - Amenah
-Update task board - Kaitlyn
-Facilitate questions - Megan
-Code Review - Cattleia
+
+Roles to switch weekly:
+Take notes 
+Update task board 
+Facilitate questions 
+Code Review 
+
+This roles will start in alphabetical order and everyone will rotate down each meeting.
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
 if you adopt such a policy during the initial meeting, put it here
