@@ -1,0 +1,5 @@
+1. Rotate who takes notes (roles) instead of one member
+2. Pick time of day for daily meetings
+3. Establish what infractions are
+4. Email (maybe phone) available if one route of communcation is unavailable
+5. Implement procedure for adopting policies (at some point)
