@@ -30,7 +30,12 @@ Code Review
 This roles will start in alphabetical order and everyone will rotate down each meeting.
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
-if you adopt such a policy during the initial meeting, put it here
+To adopt policies, the procedure is as follows:
+1. During our weekly lab session, the member will propose a meeting to propose the policy 
+2. A date and time will be set to meet within 72 hours
+3. The member will propose the reasoning for the new policy
+4. Discussion will take place within the group
+5. A vote will occur, a majority vote must occur. If there is a tie, discussion will take place until one member chooses the other option. 
 
 Procedure for handling a member who is not meeting expectations:
 3 infractions: 
