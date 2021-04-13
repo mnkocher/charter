@@ -19,7 +19,7 @@ Definition of done: when is a task complete?:
 Properly tested, checked into Github, meets all requirements, checked by teammate(s)
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
-~15 minutes (Tue/Thr 9:45am)
+~15 minutes (Mon through Thurs, 9:45am)
 
 Roles to switch weekly:
 Take notes 
