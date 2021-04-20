@@ -3,31 +3,32 @@ Group 5
 
 Availability for meeting expectations:
 2 days a week
-Take as long as it take but meeting over 1 hr in length is discouraged
+Takes as long as it takes but meeting over 1 hr in length is discouraged
 
 If member needs to miss meeting, member must say so 48 hrs in advanced
 Acceptable missed meetings: emergencies
 After lectures (Tue/Thr) 
 
 Response time to communication expectations:
-Within 24 hrs
+Within 2-4 hrs
 Through Teams primarily
 Through email or phone number if not responding to Teams.
 Phone numbers will be entered in Teams.
 
 Definition of done: when is a task complete?:
-Properly tested, checked into Github, meets all requirements, checked by teammate(s)
+Properly tested, checked into Github, meets all feasible requirements and acceptance criteria, checked by teammate(s)
+If not all initial requirements are met, must be justified
 
 Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board):
 ~15 minutes (Mon through Thurs, 9:45am)
 
 Roles to switch weekly:
-Take notes 
+Take notes (can be a recording)
 Update task board 
 Facilitate questions 
 Code Review 
 
-This roles will start in alphabetical order and everyone will rotate down each meeting.
+This roles will start in alphabetical order by name and everyone will rotate down each meeting.
 
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates):
 To adopt policies, the procedure is as follows:
